@@ -1,0 +1,26 @@
+TreeDash Extension License
+
+Copyright (c) 2026 TreeDash. All rights reserved.
+
+This software is provided free of charge for personal and commercial use.
+
+You may:
+- Install and use the extension in Visual Studio Code or compatible editors.
+- Use the free tier features without restriction.
+- Access paid tier features through an active GitHub Sponsors subscription.
+
+You may not:
+- Modify, decompile, reverse engineer, or create derivative works of the extension.
+- Redistribute, sublicense, or sell the extension or any part of it.
+- Remove or alter any copyright notices or license terms.
+- Circumvent tier restrictions, authentication, or licensing mechanisms.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+For questions, contact support@treedash.app.
